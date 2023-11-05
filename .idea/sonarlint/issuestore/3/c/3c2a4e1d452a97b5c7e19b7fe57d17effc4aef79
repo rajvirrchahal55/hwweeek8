@@ -1,0 +1,16 @@
+
+h
+java:S1192"KDefine a constant instead of duplicating this literal "fullName= " 3 times.(ß€ 8ö‚áÆ¹1
+m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ½‚µ8ö‚áÆ¹1
+‰
+java:S4165&"gRemove this useless assignment; "firstName" already holds the assigned value along all execution paths.(ŞæŞ¨ùÿÿÿÿ8†ƒáÆ¹1
+G	java:S106"+Replace this use of System.out by a logger.(ß€ 8†ƒáÆ¹1
+G	java:S106"+Replace this use of System.out by a logger.(ÿ„Ö¶8†ƒáÆ¹1
+G	java:S106"+Replace this use of System.out by a logger.(ß€ 8–ƒáÆ¹1
+G	java:S106"+Replace this use of System.out by a logger.(ÿ„Ö¶8–ƒáÆ¹1
+L	java:S106"+Replace this use of System.out by a logger.(äËùÿÿÿÿ8–ƒáÆ¹1
+M
+java:S1172%"0Remove this unused method parameter "FirstName".(µ½‚µ8–ƒáÆ¹1
+E	java:S1088")Either remove or fill this block of code.(‡ƒ‹¤8–ƒáÆ¹1
+Q
+java:S1656&"/Remove or correct this useless self-assignment.(ŞæŞ¨ùÿÿÿÿ8–ƒáÆ¹1
